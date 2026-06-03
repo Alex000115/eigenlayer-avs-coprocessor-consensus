@@ -1,0 +1,11 @@
+{
+  "name": "eigenlayer-avs-coprocessor-consensus",
+  "version": "1.0.0",
+  "description": "Consensus voting layer for EigenLayer backed ZK Co-processors",
+  "main": "runConsensus.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
